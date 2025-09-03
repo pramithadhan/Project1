@@ -1,10 +1,11 @@
 # Project1
 Perth Connect
 #Name: Pramitha Dhanraj 
-# Perth Connect App (Demo Version)
-# Program to show app features
+#Perth Connect app
+#Python program to show app features
 
-# Parking spots data
+#Parking spots data
+
 parking_spots = [
     {"id": 1, "location": "Perth CBD - Murray St", "available": True},
     {"id": 2, "location": "Elizabeth Quay", "available": False},
