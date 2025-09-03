@@ -6,10 +6,7 @@ Perth Connect
 
 #Parking spots data
 
-parking_spots = [
-    {"id": 1, "location": "Perth CBD - Murray St", "available": True},
-    {"id": 2, "location": "Elizabeth Quay", "available": False},
-    {"id": 3, "location": "Kings Park", "available": True},
+parking_spots = [{"id": 1, "location": "Perth CBD - Murray St", "available": True},{"id": 2, "location": "Elizabeth Quay", "available": False},{"id": 3, "location": "Kings Park", "available": True},
 ]
 
 while True:
