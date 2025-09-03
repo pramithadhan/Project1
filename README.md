@@ -4,13 +4,11 @@ Perth Connect
 #Perth Connect app
 #Python program to show app features
 
-
 parking_spots = [
     {"id": 1, "location": "Perth CBD - Murray St", "available": True},
     {"id": 2, "location": "Elizabeth Quay", "available": False},
     {"id": 3, "location": "Kings Park", "available": True},
-] 
-
+]
 while True:
     print("\n=== Perth Connect Parking App ===")
     print("1. Show all parking spots")
