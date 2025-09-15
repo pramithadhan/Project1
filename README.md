@@ -28,3 +28,6 @@ This project is a **prototype demo** to show how a smart parking system can work
 3. Run the program in terminal:  
    ```bash
    python perth_connect.py
+
+This demo app was created as part of a Python learning project.
+It demonstrates basic user interaction, condition checking, and data handling with Python lists and dictionaries.
